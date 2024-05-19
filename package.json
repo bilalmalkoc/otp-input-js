@@ -1,13 +1,19 @@
 {
   "name": "otp-input-js",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Create OTP (One Time Password) input fields in a web page.",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bilalmalkoc/otp-input-js.git"
+  },
+  "author": "bilalmalkoc",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^9.3.0",
     "eslint-config-prettier": "^9.1.0",
